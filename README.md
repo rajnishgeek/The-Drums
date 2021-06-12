@@ -1,5 +1,5 @@
 # The Drums
-By pressing any key A to Z on the keyboard, it shows good animations with sounds.
+It is a drum instruments sound kit application with animations. By pressing any key A to Z on the keyboard, it shows good animations with the visual sounds of drum instruments on the web page.
 ## Language: 
 HTML, CSS, JavaScript
 ## Libraries: 
